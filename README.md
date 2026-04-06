@@ -199,7 +199,7 @@ The project is about playing simple poker, so I decided to arrange the functiona
 5. In the main() function - I use a while loop for the games until the user enters No. I have used bool flags indicating a new game or a tie. I have also a nested for loop when asking every player for (r/c/f).  
 6. If there is a tie - we go back to the beginning of the program: new dealing, new array of dealt cards, and the same algorithm is executed!
 
----
+
 
 <div align="center">
 
