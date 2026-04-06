@@ -1,4 +1,4 @@
-# ♠️ Poker Project
+# ♠️ Poker Console Game
 
 
 
