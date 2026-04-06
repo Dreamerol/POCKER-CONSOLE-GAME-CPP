@@ -1,5 +1,14 @@
 # ♠️ Poker Project
 
+
+---
+
+![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/6a3bc3cf9d4d9ddecf05e2a45a86d2ce5466b6da/ZPOCKER.jpg)
+
+---
+
+## 🚀 Overview
+
 This project is a console-based implementation of a simplified **Poker game**, developed as part of a programming assignment. It simulates the essential components of poker, including cards, players, and hand evaluation.
 
 ---
